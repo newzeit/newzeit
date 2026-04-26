@@ -3,6 +3,7 @@
 ### 🚀 Sobre mí
 - 🛠️ Apasionado por la virtualización y la administración de servidores (Proxmox, KVM, QEMU).
 - 🐧 Usuario entusiasta de Linux manteniendo lo más limpio posible el sistema.
+- 🐧 Mi sistema actual es Fedora 44 Workstation.
 - 💾 Implementando IA en el desarrollo web y en las tareas diarias.
 
 ### 🛠️ Tecnologías y Herramientas)
