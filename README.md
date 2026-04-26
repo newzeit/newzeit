@@ -13,10 +13,13 @@
 
 ### 📈 Mis Proyectos Destacados
 - [**Ayudas para administradores linux**](https://github.com/newzeit/linux-admin)
+- [**Stack Backend en Podman**](https://github.com/newzeit/backend-stack-podman)
+- [**Stack Backend en Docker para Windows**](https://github.com/newzeit/backend-stack-docker-windows)
 - 
 ---
 
 ### 📫 Contacto
 - **LinkedIn:** [gnzlog](https://www.linkedin.com/in/gnzlog/)
-- **Email:** [gonzalo.tapie@newzeit.com.ar]
-![Proxmox](https://shields.io)
+- **Email:** gonzalo.tapie@newzeit.com.ar
+- **URL:** [NewZeit](https://newzeit.com.ar)
+
