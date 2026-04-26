@@ -9,17 +9,14 @@
 - **Virtualización:** Proxmox VE, KVM/QEMU, Libvirt.
 - **Sistemas:** Debian, Ubuntu Server, RHEL.
 - **Scripting:** Bash, zsh.
-- **Infraestructura:** Almacenamiento Sparse, LVM, ZFS.
+- **Infraestructura:** Sistemas Windows Server y Linux.
 
 ### 📈 Mis Proyectos Destacados
 - [**Ayudas para administradores linux**](https://github.com/newzeit/linux-admin)
-- [**Proxmox-Lab-Setup**](link-al-repo): Guía y scripts para desplegar un laboratorio de virtualización desde cero.
-
-### 📊 Estadísticas de GitHub
-![Tus estadísticas](https://vercel.app[TU_USUARIO]&show_icons=true&theme=radical)
-
+- 
 ---
 
 ### 📫 Contacto
-- **LinkedIn:** [tu-perfil](link)
-- **Email:** [tu-correo@ejemplo.com]
+- **LinkedIn:** [gnzlog](https://www.linkedin.com/in/gnzlog/)
+- **Email:** [gonzalo.tapie@newzeit.com.ar]
+![Proxmox](https://shields.io)
