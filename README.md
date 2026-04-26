@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! Soy Gonzalo Gabriel Jesús Tapie 👋
 
-<!--
-**newzeit/newzeit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí
+- 🛠️ Apasionado por la virtualización y la administración de servidores (Proxmox, KVM, QEMU).
+- 🐧 Usuario entusiasta de Linux y la automatización mediante Bash.
+- 💾 Enfocado en la optimización de recursos y sistemas de backup eficientes.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y Herramientas
+- **Virtualización:** Proxmox VE, KVM/QEMU, Libvirt.
+- **Sistemas:** Debian, Ubuntu Server, RHEL.
+- **Scripting:** Bash, zsh.
+- **Infraestructura:** Almacenamiento Sparse, LVM, ZFS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Mis Proyectos Destacados
+- [**VM-Backup-Optimizer**](link-al-repo): Script en Bash para backups comprimidos y eficientes de archivos QCOW2.
+- [**Proxmox-Lab-Setup**](link-al-repo): Guía y scripts para desplegar un laboratorio de virtualización desde cero.
+
+### 📊 Estadísticas de GitHub
+![Tus estadísticas](https://vercel.app[TU_USUARIO]&show_icons=true&theme=radical)
+
+---
+
+### 📫 Contacto
+- **LinkedIn:** [tu-perfil](link)
+- **Email:** [tu-correo@ejemplo.com]
