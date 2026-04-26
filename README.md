@@ -2,14 +2,15 @@
 
 ### 🚀 Sobre mí
 - 🛠️ Apasionado por la virtualización y la administración de servidores (Proxmox, KVM, QEMU).
-- 🐧 Usuario entusiasta de Linux y la automatización mediante Bash.
-- 💾 Enfocado en la optimización de recursos y sistemas de backup eficientes.
+- 🐧 Usuario entusiasta de Linux manteniendo lo más limpio posible el sistema.
+- 💾 Implementando IA en el desarrollo web y en las tareas diarias.
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Tecnologías y Herramientas)
 - **Virtualización:** Proxmox VE, KVM/QEMU, Libvirt.
 - **Sistemas:** Debian, Ubuntu Server, RHEL.
 - **Scripting:** Bash, zsh.
 - **Infraestructura:** Sistemas Windows Server y Linux.
+- **IA:** Utilizando actualmente gemini-cli, opencode-cli y chatgpt (TIP: es muy bueno usar ChatGPT para generar prompts estructurados para utilizar en los otros modelos de IA.)
 
 ### 📈 Mis Proyectos Destacados
 - [**Ayudas para administradores linux**](https://github.com/newzeit/linux-admin) Archivos markdown con ayudas tipo cheat-sheet sobre git, qemu, expresiones regulares, etc
