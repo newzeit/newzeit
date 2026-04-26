@@ -12,7 +12,7 @@
 - **Infraestructura:** Almacenamiento Sparse, LVM, ZFS.
 
 ### 📈 Mis Proyectos Destacados
-- [**VM-Backup-Optimizer**](link-al-repo): Script en Bash para backups comprimidos y eficientes de archivos QCOW2.
+- [**Ayudas para administradores linux**](https://github.com/newzeit/linux-admin)
 - [**Proxmox-Lab-Setup**](link-al-repo): Guía y scripts para desplegar un laboratorio de virtualización desde cero.
 
 ### 📊 Estadísticas de GitHub
